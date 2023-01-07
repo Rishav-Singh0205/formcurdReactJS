@@ -6,6 +6,9 @@
   height: 40vmin;
   pointer-events: none;
 }
+.divbtn{
+  float: left;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

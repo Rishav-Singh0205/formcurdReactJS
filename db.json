@@ -1,0 +1,30 @@
+{
+  "student": [
+    {
+      "id": 8,
+      "fname": "Rishav",
+      "lname": "Singh",
+      "mobil": "",
+      "email": "rishavsingh5@gmail.com",
+      "add1": "Delhi",
+      "add2": "house no.1201",
+      "selectedCountry": "India",
+      "selectedState": "Bihar",
+      "selectedCity": "Supaul",
+      "zip": ""
+    },
+    {
+      "id": 9,
+      "fname": "rahabbh",
+      "lname": "sdasdsa",
+      "mobil": "45875465",
+      "email": "rohakkn1@gmail.com",
+      "add1": "Haryana",
+      "add2": "Delhi",
+      "selectedCountry": "India",
+      "selectedState": "Chhattisgarh",
+      "selectedCity": "Kawardha",
+      "zip": "333"
+    }
+  ]
+}
